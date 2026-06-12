@@ -16,7 +16,11 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Restaurant's Website<br>🌱 I’m currently learning Android Development & Software Engineering<br>👯 I’m looking to collaborate on Web Development Projects<br>💬 Ask me about C Programming, C++, Python, HTML, CSS, JavaScript, GitHub, Software Engineering<br>📫 How to reach me: fcshohagh22@gmail.com</p>
+<img align="right" height="129" src="https://adaptable-gaura-22e.notion.site/image/https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif?table=block&id=22f81ec6-fea7-8083-beac-f704f7e2c068&spaceId=141dfd44-a47c-495a-91a6-70400ff22f30&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl"  />
+
+###
+
+<p align="left">🔭 I’m currently working on Restaurant's Website<br>🌱 I’m currently learning Android Development & Software Engineering<br>👯 I’m looking to collaborate on Web Development Projects<br>💬 Ask me about C++, Python, HTML, CSS, JavaScript, GitHub, Software Engineering<br>📫 How to reach me: fcshohagh22@gmail.com</p>
 
 ###
 
